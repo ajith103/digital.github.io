@@ -1753,26 +1753,6 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qYqxecj88b {
-  background-image: url("../../../assets/images/mailamengineeringcollegeadminblock-1200x551.jpg");
-}
-.cid-qYqxecj88b .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qYqxecj88b .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qYqxecj88b .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qYqxecj88b H1 {
-  color: #ff3366;
-  text-align: left;
-}
 .cid-qYxF8eZm1B {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1839,6 +1819,11 @@ body {
   .cid-qYqD42dvWM .inner-container {
     width: 100% !important;
   }
+}
+.cid-qYEkpa3aNn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
