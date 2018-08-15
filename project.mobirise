@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-5278440256141028\",\n    enable_page_level_ads: true\n  });\n</script>",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -599,7 +599,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-5278440256141028\",\n    enable_page_level_ads: true\n  });\n</script>",
         "title": "Page 1",
         "order": 3
       },
